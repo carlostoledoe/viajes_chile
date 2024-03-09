@@ -2,6 +2,10 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  background-color: #000;
+}
+
 /* Modifcación del navbar */
 .navbar-brand img {
   width: 1.5rem;
@@ -28,7 +32,6 @@ nav.navbar {
 
 /* Sección quienes somos */
 #quienes-somos {
-  background-color: #000;
   color: #ffffffd8;
   padding: 2rem 10%;
 }
@@ -40,7 +43,6 @@ nav.navbar {
 
 /* Seccion Destacados */
 #destacados {
-  background-color: #000;
   color: #fff;
   padding: 2rem 10%;
 }
