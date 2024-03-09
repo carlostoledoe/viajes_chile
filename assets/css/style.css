@@ -26,3 +26,15 @@ nav.navbar {
   margin-top: -3rem !important;
 }
 
+/* Sección quienes somos */
+#quienes-somos {
+  background-color: #000;
+  color: #ffffffd8;
+  padding: 2rem 10%;
+}
+
+.secc-fabico {
+  background-color: rgb(13,202,240);
+  color: #fff;
+  text-align: center;
+}
