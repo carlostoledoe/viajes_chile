@@ -1,6 +1,5 @@
 html {
   scroll-behavior: smooth;
-  background-color: blanchedalmond;
 }
 
 /* Modifcación del navbar */
@@ -23,6 +22,7 @@ nav.navbar {
 }
 
 .navbar {
-  background-color: rgb(13,202,240);
+  background-color: transparent !important;
+  margin-top: -3rem !important;
 }
 
