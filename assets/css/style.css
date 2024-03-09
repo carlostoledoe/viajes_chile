@@ -36,5 +36,20 @@ nav.navbar {
 .secc-fabico {
   background-color: rgb(13,202,240);
   color: #fff;
-  text-align: center;
+}
+
+/* Seccion Destacados */
+#destacados {
+  background-color: #000;
+  color: #fff;
+  padding: 2rem 10%;
+}
+
+.card-body {
+  background-color: rgb(13,202,240);
+  color: #fff;
+}
+
+.card img {
+  max-height: 10rem;
 }
