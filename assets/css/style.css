@@ -1,0 +1,28 @@
+html {
+  scroll-behavior: smooth;
+  background-color: blanchedalmond;
+}
+
+/* Modifcación del navbar */
+.navbar-brand img {
+  width: 1.5rem;
+}
+
+#tit-logo {
+  font-size: 1rem;
+  padding-left: 0.5rem;
+  opacity: 90%;
+}
+.navbar a.nav-link {
+  color: #fff;
+  opacity: 85%;
+}
+
+nav.navbar {
+  padding: 0;
+}
+
+.navbar {
+  background-color: rgb(13,202,240);
+}
+
