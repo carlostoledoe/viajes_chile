@@ -5,6 +5,11 @@ html {
 body {
   background-color: #000;
   color: #fff;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "slnt" 0;
 }
 
 /* Modifcación del navbar */
@@ -36,6 +41,11 @@ nav.navbar {
   padding: 2rem 10%;
 }
 
+#quienes-somos h2 {
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
 .secc-fabico {
   background-color: rgb(13,202,240);
   text-align: center;
@@ -55,6 +65,11 @@ nav.navbar {
   max-height: 10rem;
 }
 
+#destacados h2 {
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
 /* Sección contacto */
 #contacto button {
   background-color:rgb(13,202,240) ;
@@ -68,6 +83,11 @@ nav.navbar {
   color: #000;
 }
 
+#contacto h2 {
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
 /* Sección foorter */
 footer {
   background-color:rgb(13,202,240);
@@ -76,6 +96,11 @@ footer {
 }
 footer h5 {
   margin: 0;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings: "slnt" 0;
 }
 footer i {
   font-size: 1.5rem;
