@@ -54,3 +54,16 @@ nav.navbar {
 .card img {
   max-height: 10rem;
 }
+
+/* Sección contacto */
+#contacto button {
+  background-color:rgb(13,202,240) ;
+  border-color: rgb(13,202,240);
+  color: #fff;
+}
+
+#contacto button:hover {
+  background-color: rgb(0, 117, 250);
+  border-color: rgb(0, 117, 250);
+  color: #000;
+}
