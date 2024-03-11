@@ -38,7 +38,11 @@ nav.navbar {
 
 /* Sección quienes somos */
 #quienes-somos {
-  padding: 2rem 10%;
+  padding: 2rem 5%;
+}
+
+#quienes-somos p {
+  font-size: 0.9rem;
 }
 
 #quienes-somos h2 {
@@ -53,7 +57,7 @@ nav.navbar {
 
 /* Seccion Destacados */
 #destacados {
-  padding: 2rem 10%;
+  padding: 2rem 5%;
 }
 
 .card-body {
@@ -70,7 +74,15 @@ nav.navbar {
   font-size: 1.5rem;
 }
 
+#destacados .card-text {
+  font-size: 0.8rem;
+}
+
 /* Sección contacto */
+#contacto {
+  padding: 2rem 3%;
+}
+
 #contacto button {
   background-color:rgb(13,202,240) ;
   border-color: rgb(13,202,240);
