@@ -4,6 +4,7 @@ html {
 
 body {
   background-color: #000;
+  color: #fff;
 }
 
 /* Modifcación del navbar */
@@ -32,19 +33,16 @@ nav.navbar {
 
 /* Sección quienes somos */
 #quienes-somos {
-  color: #ffffffd8;
   padding: 2rem 10%;
 }
 
 .secc-fabico {
   background-color: rgb(13,202,240);
-  color: #fff;
   text-align: center;
 }
 
 /* Seccion Destacados */
 #destacados {
-  color: #fff;
   padding: 2rem 10%;
 }
 
