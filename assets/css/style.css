@@ -65,9 +65,18 @@ nav.navbar {
   color: #fff;
 }
 
-.card img {
-  max-height: 8rem;
-}
+  /* Media Queries para img card */
+  @media (max-width: 1440px) {
+    .card img {
+      max-height: 8rem;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .card img {
+      max-height: 12rem;
+    }
+  }
 
 #destacados h2 {
   font-weight: 400;
