@@ -38,7 +38,7 @@ nav.navbar {
 
 /* Sección quienes somos */
 #quienes-somos {
-  padding: 2rem 5%;
+  padding: 3rem 5%;
 }
 
 #quienes-somos p {
@@ -57,12 +57,16 @@ nav.navbar {
 
 /* Seccion Destacados */
 #destacados {
-  padding: 2rem 5%;
+  padding: 3rem 5%;
 }
 
 .card-body {
   background-color: rgb(13,202,240);
   color: #fff;
+}
+.card {
+  border-color:rgb(13,202,240);
+  border: .15rem solid rgb(13,202,240);
 }
 
   /* Media Queries para img card */
@@ -129,4 +133,13 @@ footer i {
 }
 footer a:active {
   color: #fff;
+}
+
+/* Estilos para cambio color navbar*/
+.navbar-color-change {
+  background-color: rgba(36, 153, 166, 0.842);
+}
+
+#naavbarr {
+  transition: background-color 0.5s;
 }
