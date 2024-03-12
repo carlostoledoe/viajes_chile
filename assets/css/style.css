@@ -135,6 +135,17 @@ footer a:active {
   color: #fff;
 }
 
+  /* Media Queries para icos */
+  @media (max-width: 375px) {
+    footer i {
+      font-size: 1rem;
+    }
+    footer h5 {
+      font-size: 1rem;
+      padding-top: 0.1rem;
+    }
+  }
+
 /* Estilos para cambio color navbar*/
 .navbar-color-change {
   background-color: rgba(36, 153, 166, 0.842);
