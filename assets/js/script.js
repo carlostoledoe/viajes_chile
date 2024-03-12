@@ -20,7 +20,7 @@ window.addEventListener('scroll', function() {
   const navbar = document.getElementById('naavbarr');
 
   // Si la posición del scroll es mayor a 50px, cambia el color
-  if (scrollPosition > 700) {
+  if (scrollPosition > 400) {
     navbar.classList.add('navbar-color-change');
   } else {
     navbar.classList.remove('navbar-color-change');
