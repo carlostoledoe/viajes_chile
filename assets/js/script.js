@@ -5,8 +5,8 @@ const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstra
 //Scroll Reveal
 window.sr = ScrollReveal();
 sr.reveal('#quienes-somos', {
-    duration: 2000,
-    delay: 200
+    duration: 2500,
+    delay: 300
 });
 
 // Cambio de color al navbar:
